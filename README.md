@@ -1,7 +1,7 @@
 # Search
 
 **Запустить билд проекта:**
-* search/build/index.html
+* build/index.html
 
 **Запустить проект в режиме dev:**
 * npm i
